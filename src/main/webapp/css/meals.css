@@ -1,0 +1,31 @@
+.modal-footer{
+    background-color: #ffc107;
+}
+.quantity{
+        margin-top: 20px;
+
+}
+.add-cart{
+    color: black;
+    text-decoration-line: none;
+    margin:auto;
+
+}
+
+a.add-cart:link, a.add-cart:visited, a.add-cart:hover, a.add-cart:active {
+  color: black;
+    
+}
+
+.crement{
+    background: none;
+    border: none;
+}
+
+
+.crement:focus, crement:active{
+    background: none;
+    border: none;
+    outline: none;
+  border-radius: 0px;
+}
